@@ -1,7 +1,38 @@
-## Hi there 👋 
-I’m Md.Ismile Hossain.I am working as a Software Engineer in a software development company where I gathered knowledge of software development to enrich my experience. I really enjoy learning languages and frameworks like Javascript, Php, React, Node, Express and Laravel, as well as work in Mongodb and Mysql.
+## 👋 Hi, I'm **Md. Ismile Hossain**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ismile-Hossain&show_icons=true)
+I am a **Software Engineer** passionate about solving real-world problems through clean and scalable software solutions. I enjoy working with modern web technologies and continuously learning new skills that help me grow as a developer.
+
+---
+
+### 🚀 Tech Stack
+
+- **Languages:** PHP, JavaScript  
+- **Frameworks:** Laravel, Node.js, Express.js, React  
+- **Databases:** MySQL, MongoDB  
+- **Tools & Concepts:** REST APIs, MVC, Git/GitHub, JSON
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ismile-Hossain&show_icons=true&theme=radical&cache_seconds=86400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ismile-Hossain&layout=compact&theme=radical)
+
+</div>
+
+---
+
+### 📫 Connect With Me
+
+📧 Email: *your-email@example.com*  
+🔗 LinkedIn: *https://linkedin.com/in/your-profile*
+
+---
+
+⭐️ _Thanks for visiting my profile!_  
 
 
 
