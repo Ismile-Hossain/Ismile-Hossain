@@ -27,8 +27,8 @@ I am a **Software Engineer** passionate about solving real-world problems throug
 
 ### 📫 Connect With Me
 
-📧 Email: *your-email@example.com*  
-🔗 LinkedIn: *https://linkedin.com/in/your-profile*
+📧 Email: *ismile.cse.mist@gmail.com*  
+🔗 LinkedIn: *https://www.linkedin.com/in/md-ismile-hossain-86b066202/*
 
 ---
 
