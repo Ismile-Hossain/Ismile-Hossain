@@ -9,7 +9,7 @@ I am a **Software Engineer** passionate about solving real-world problems throug
 - **Languages:** PHP, JavaScript  
 - **Frameworks:** Laravel, Node.js, Express.js, React  
 - **Databases:** MySQL, MongoDB  
-- **Tools & Concepts:** REST APIs, MVC, Git/GitHub, JSON
+- **Tools & Concepts:** REST APIs, MVC, Git/GitHub
 
 ---
 
