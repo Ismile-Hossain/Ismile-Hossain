@@ -1,15 +1,15 @@
-## 👋 Hi, I'm **Md. Ismile Hossain**
+## 👋 Hi, I'm Md. Ismile Hossain
 
-I am a **Software Engineer** passionate about solving real-world problems through clean and scalable software solutions. I enjoy working with modern web technologies and continuously learning new skills that help me grow as a developer.
+I am a Software Engineer passionate about solving real-world problems through clean, scalable, and efficient software solutions. I enjoy building modern web applications and continuously learning new technologies to improve my craft.
 
 ---
 
 ### 🚀 Tech Stack
 
-- **Languages:** PHP, JavaScript  
-- **Frameworks:** Laravel, Node.js, Express.js, React  
-- **Databases:** MySQL, MongoDB  
-- **Tools & Concepts:** REST APIs, MVC, Git/GitHub
+- Languages: PHP, JavaScript, TypeScript
+- Frameworks: Laravel, Node.js, Express.js, React
+- Databases: MySQL, MongoDB
+- Tools & Concepts: REST APIs, MVC, Git, GitHub, Clean Architecture
 
 ---
 
@@ -27,13 +27,10 @@ I am a **Software Engineer** passionate about solving real-world problems throug
 
 ### 📫 Connect With Me
 
-📧 Email: *ismile.cse.mist@gmail.com*  
-🔗 LinkedIn: *https://www.linkedin.com/in/md-ismile-hossain-86b066202/*
+- Email: ismile.cse.mist@gmail.com
+- LinkedIn: https://www.linkedin.com/in/md-ismile-hossain-86b066202/
+- GitHub: https://github.com/Ismile-Hossain
 
 ---
 
-⭐️ _Thanks for visiting my profile!_  
-
-
-
-
+⭐️ Thanks for visiting my profile!
